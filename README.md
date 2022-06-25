@@ -2,9 +2,7 @@
 
 I am Aris and this is my GitHub profile. I have spent a lot of time over the years learning C++/C# programming as a hobby by working on a 2D game engine, among other smaller projects. I have decided to share here some of the libraries and tools that I have developed over the years.
 
-My biggest projects have been in C++, although I have now transitioned to using mainly C#.
-
-
+I am currently working with C# and Unity Engine.
 
 <!--
 **atrapalis/atrapalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
