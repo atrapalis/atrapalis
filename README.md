@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Aris and this is my GitHub profile. I am an engineering PhD with a passion for programming.
+I am Aris and this is my GitHub profile. I am an engineering PhD with an interest in programming.
 I spend a lot of my free time developing my software engineering skills by working on various software projects, primarily in C#/C++.
 My GitHub profile highlights some of the projects and tools that I have developed over the years.
 
-I am currently working full time as a test software developer using C# and .NET Framework.
+I am currently working full time as a test software developer using primarily C# and .NET Framework.
 In my free time I work on side projects using C# and Unity Game Engine.
 
 <!--
